@@ -1,6 +1,6 @@
 <h1 align="center">About Red Tea Infusion</h1>
   <p align="center">
-This RedTeaInfusion project is born from a heartfelt desire to give back the invaluable knowledge I've received freely, fostering deep learning journeys. Here, you'll find all the code I create for my YouTube channel. Feel free to explore the courses on my channel.
+This RedTeaInfusion project is born from a heartfelt desire to give back the invaluable knowledge I've received freely. Here, you'll find all the code I create for my YouTube channel. Feel free to explore the courses on my channel.
   </p>
 
 <h1 align="center">Languages and Tools</h1>
