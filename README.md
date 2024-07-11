@@ -16,9 +16,14 @@ This RedTeaInfusion project is born from a heartfelt desire to give back the inv
    - [Course 1: Python 3.12 Beginner Tutorial](https://www.youtube.com/watch?v=89qlF3r8k9c&list=PLBzR6XXfAT3KvErrmrX34V5p33UZYRzSu)
    
   </p>
+<h1 align="center">GitHub Contributions Summary</h1>
+<p align="center">
 <!--
+  <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=RedTeaInfusion&amp;theme=dark&amp;hide_border=true" alt="github streak">
+  <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedTeaInfusion&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;layout=donut" alt="github top languages">
 -->
-
+  <img class="output" src="https://github-readme-stats.vercel.app/api?username=RedTeaInfusion&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedTeaInfusion&label=Profile%20views&color=0e75b6&style=flat" alt="RedTeaInfusion" />
 </p>
