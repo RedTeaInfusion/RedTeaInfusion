@@ -14,8 +14,7 @@ This RedTeaInfusion project is born from a heartfelt desire to give back the inv
     
  - [RedTeaInfusion](https://www.youtube.com/@RedTeaInfusion)
    - [Course 1: Python 3.12 Beginner Tutorial](https://www.youtube.com/watch?v=89qlF3r8k9c&list=PLBzR6XXfAT3KvErrmrX34V5p33UZYRzSu)
-   - [Course 2: Python 3.12 Intermediate Tutorial](https://www.youtube.com/watch?v=cv4BtSs4ln0&list=PLBzR6XXfAT3ISxhFQfUhpohhMzFSxvs19)
-   
+   - [Course 2: Python 3.12 Intermediate Tutorial](https://www.youtube.com/watch?v=qLhAR3A2y2c&list=PLBzR6XXfAT3ISxhFQfUhpohhMzFSxvs19)
   </p>
 <h1 align="center">GitHub Contributions Summary</h1>
 <p align="center">
